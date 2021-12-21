@@ -4,6 +4,7 @@
     padding: var(--horizontal-space);
     padding-top:40px;
     align-items: center;
+    margin-bottom: 10px;
 }
 .screen__title{
     font-size: 28px;
@@ -12,4 +13,8 @@
 
 .screen__icons span{
     margin-left: 25px;
+}
+
+.screen__icons{
+    position: relative;
 }

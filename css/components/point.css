@@ -1,0 +1,19 @@
+.point{
+    background-color: tomato;
+    display: block;
+    width:6px;
+    height:6px;
+    border-radius: 3px;
+}
+
+.point_cog{
+    background-color: tomato;
+    width: 6px;
+    height: 6px;
+    border-radius:3px;
+    position: absolute;
+    right: -7px;
+    top: -8px;
+    
+
+}
